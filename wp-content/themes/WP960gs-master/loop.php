@@ -30,33 +30,37 @@
 
 
 <!-- Módulo Profile -->
-<div class="grid12">
-	<h2>Titulo 0</h2>
-	<div class="row">	
-			<div class="grid6">
-				<h3>Titulo0.1</h3>
-				<div class="row">
-						<div class="grid2">
+<div class="row">
+	<div class="grid12">
+		<h2>Perfil</h2>
+			<div class="row">	
+				<div class="grid6">
+					<h4>About me</h4>
+						<div class="row">
+							<div class="grid2">
 								<img src="http://placehold.it/80x80" alt="">
-						</div>
-						<div class="grid4">
+							</div>
+							<div class="grid4">
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur!</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="grid2">
+								<img src="http://placehold.it/80x80" alt="">
+							</div>
+							<div class="grid4">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur!</p>
+							</div>
 						</div>
 				</div>
-				<div class="row">
-						<div class="grid2">
-								<img src="http://placehold.it/80x80" alt="">
-						</div>
-						<div class="grid4">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur!</p>
-						</div>
+				<div class="grid6">		
+					<h4>My jobs</h4>
+						<img src="http://placehold.it/60x60" alt=""> 
+						<img src="http://placehold.it/60x60" alt=""> 
+						<img src="http://placehold.it/60x60" alt="">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, rem, ullam deleniti officia ad impedit dolores explicabo perspiciatis est obcaecati consequuntur suscipit minima vitae porro quia vero ab aliquam dolore.</p>
 				</div>
 			</div>
-		<div class="grid6">		
-				<h3>Titulo 0.1</h3>
-				<img src="http://placehold.it/400x80" alt="">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, rem, ullam deleniti officia ad impedit dolores explicabo perspiciatis est obcaecati consequuntur suscipit minima vitae porro quia vero ab aliquam dolore.</p>
-		</div>
 	</div>
 </div><!-- Fin Módulo Profile -->
 
@@ -66,20 +70,29 @@
 <!-- Módulo Portafolio -->
 <div class="row">
 	<div class="grid12">
-		<h3>Titulo 1</h3>
+		<h2>Portafolio</h2>
 			<div class="row">
-					<div class="grid3">
-							<img src="http://placehold.it/200x180" alt="">
-					</div>
-					<div class="grid3">
-							<img src="http://placehold.it/200x180" alt="">
-					</div>
-					<div class="grid3">
-							<img src="http://placehold.it/200x180" alt="">
-					</div>
-					<div class="grid3">
-							<img src="http://placehold.it/200x180" alt="">
-					</div>
+				<div class="grid12">
+					<h4>Recent project</h4>
+						<div class="row">
+							<div class="grid3">
+									<h6>Titulo</h6>
+									<img src="http://placehold.it/200x180" alt="">
+							</div>
+							<div class="grid3">
+								<h6>Titulo</h6>
+									<img src="http://placehold.it/200x180" alt="">
+							</div>
+							<div class="grid3">
+								<h6>Titulo</h6>
+									<img src="http://placehold.it/200x180" alt="">
+							</div>
+							<div class="grid3">
+								<h6>Titulo</h6>
+									<img src="http://placehold.it/200x180" alt="">
+							</div>
+						</div>
+				</div>
 			</div>
 	</div>
 </div><!-- Fin Módulo Portafolio -->
@@ -88,44 +101,81 @@
 
 <!-- Módulo Blog -->
 <div class="row">
-	<h3>Titulo 2</h3>
-	<div class="grid4">
-			<img src="http://placehold.it/300x250" alt="">
-	</div>
-	<div class="grid4">
-			<img src="http://placehold.it/300x250" alt="">
-	</div>
-	<div class="grid4">
-			<img src="http://placehold.it/300x250" alt="">
-	</div>
+	<div class="grid12">
+		<h2>Blog</h2>
+			<div class="row">
+				<div class="grid12">
+					<h4>Lastest Post</h4>
+						<div class="row">
+							<div class="grid4">
+									<h6>Titulo</h6>
+										<img src="http://placehold.it/300x250" alt="">
+							</div>
+							<div class="grid4">
+								<h6>Titulo</h6>
+									<img src="http://placehold.it/300x250" alt="">
+							</div>
+							<div class="grid4">
+								<h6>Titulo</h6>
+									<img src="http://placehold.it/300x250" alt="">
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
 </div><!-- Módulo Blog -->
+
+
+
 
 <!-- Módulo Contacto -->
 <div class="row">
-	<div class="grid6">
-		<h3>Titulo 3</h3>
-			<img src="http://placehold.it/400x250" alt="">
-	</div>
-	<div class="grid6">
-		<h3>Titulo 3</h3>
-			<img src="http://placehold.it/400x250" alt="">
-	</div>
-</div><!-- Fin Módulo Blog -->
+	<div class="grid12">
+		<h2>Contacto</h2>
+			<div class="row">
+					<div class="grid6">
+						<h4>Ubicacion</h4>
+							<img src="http://placehold.it/420x250" alt="">
+					</div>
+					<div class="grid6">
+						<h4>Form</h4>
+							<img src="http://placehold.it/420x250" alt="">
+					</div>
+				</div>
+			</div>
+		</div><!-- Fin Módulo Blog -->
+
+
+
 
 
 <div class="row">
-<h2>Titulo 4</h2>
-	<div class="grid4">
-		<img src="http://placehold.it/300x250" alt="">
-	</div>	
-	<div class="grid4">
-		<img src="http://placehold.it/300x250" alt="">
+	<div class="grid12">
+		<h2>Redes</h2>
+			<div class="row">
+				<div class="grid4">
+					<h4>Github Repository</h4>
+						<img src="http://placehold.it/300x250" alt="">
+				</div>	
+				<div class="grid4">
+					<h4>Twitter @nickname</h4>
+						<img src="http://placehold.it/300x250" alt="">
+				</div>
+				<div class="grid4">
+					<h4>Social Network</h4>
+						<img src="http://placehold.it/300x250" alt="">
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="grid4">
-		<img src="http://placehold.it/300x250" alt="">
-	</div>
-	
-</div>
+
+
+
+<!-- Pie de Página -->
+<footer>
+	<hr>
+	<h6>Develop by Last Name</h6>
+</footer><!-- Fin pie de Página -->
 
 <?php endwhile; endif; ?>
 </div> <!-- Fin de la estructura Home -->
