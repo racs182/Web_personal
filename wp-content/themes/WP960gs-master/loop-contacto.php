@@ -30,11 +30,11 @@
 			<div class="row">
 					<div class="grid6">
 						<h4>Ubicacion</h4>
-							<img src="http://placehold.it/420x250" alt="">
+							<img src="http://placehold.it/490x250" alt="">
 					</div>
 					<div class="grid6">
 						<h4>Form</h4>
-							<img src="http://placehold.it/420x250" alt="">
+							<img src="http://placehold.it/490x250" alt="">
 					</div>
 				</div>
 			</div>

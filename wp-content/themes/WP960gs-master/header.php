@@ -46,7 +46,15 @@
 									</div>
 							</div>
 					</<?php echo $heading_tag; ?>>
+
 					<!-- Menu in Header access -->
+						<div class="grid6 right">
+							<img src="http://placehold.it/20x20" alt="">
+							<img src="http://placehold.it/20x20" alt="">
+							<img src="http://placehold.it/20x20" alt="">
+							<img src="http://placehold.it/20x20" alt="">
+							<img src="http://placehold.it/20x20" alt="">
+						</div>
 							<div id="access" rol="navigation" class="grid6 right">
 									<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
 							</div> 

@@ -46,7 +46,7 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 /* Primary Menu */
 #access .menu ul {
-	margin-top: 50px;
+	margin-top: 28px;
 	margin-bottom: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -103,6 +103,19 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 .cita{
 	text-align: center;
+}
+.jobs {
+	width: 60px;
+	overflow: hidden;
+	padding: 0 20px 0 0;
+	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 28px;
+}
+.circulo{
+	width: 60px;
+	height: 60px;
+	/*float: left;*/
+	overflow: hidden;
+
 }
 #content {
 	margin-top   : 20px;
@@ -599,10 +612,10 @@ h3#reply-title {
 	margin-bottom: 20px;
 }
 #colophon {
-	border-top: 4px solid #000;
+	border-top: 1px solid #ccc;
 	margin-top: -4px;
 	overflow: hidden;
-	padding: 18px 0;
+	padding: 10px 0;
 }
 #site-info {
 	font-weight: bold;

@@ -34,19 +34,19 @@
 						<div class="row">
 							<div class="grid3">
 									<h6>Titulo</h6>
-									<img src="http://placehold.it/200x180" alt="">
+										<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
 							</div>
 							<div class="grid3">
 								<h6>Titulo</h6>
-									<img src="http://placehold.it/200x180" alt="">
+									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
 							</div>
 							<div class="grid3">
 								<h6>Titulo</h6>
-									<img src="http://placehold.it/200x180" alt="">
+									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
 							</div>
 							<div class="grid3">
 								<h6>Titulo</h6>
-									<img src="http://placehold.it/200x180" alt="">
+									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
 							</div>
 						</div>
 				</div>

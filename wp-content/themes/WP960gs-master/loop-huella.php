@@ -45,7 +45,7 @@
 	</div><!-- Fin módulo huella digital -->
 
 
-<hr>
+
 
 <?php endwhile; endif; ?>
 </div> <!-- Fin de la estructura Home -->

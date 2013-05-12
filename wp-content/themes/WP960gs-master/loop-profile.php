@@ -51,9 +51,17 @@
 				</div>
 				<div class="grid6">		
 					<h4>My jobs</h4>
-						<img src="http://placehold.it/60x60" alt=""> 
-						<img src="http://placehold.it/60x60" alt=""> 
-						<img src="http://placehold.it/60x60" alt="">
+						<div class="jobs">
+							<div class="circulo">
+								<img class="img-circle" src="http://placehold.it/60x60" alt="">
+							</div>
+						</div>
+						<div class="jobs">
+							<img class="img-circle" src="http://placehold.it/60x60" alt="">
+						</div>
+						<div class="jobs">
+							<img class="img-circle" src="http://placehold.it/60x60" alt="">
+						</div>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, rem, ullam deleniti officia ad impedit dolores explicabo perspiciatis est obcaecati consequuntur suscipit minima vitae porro quia vero ab aliquam dolore.</p>
 				</div>
 			</div>
@@ -61,8 +69,8 @@
 </div><!-- Fin Módulo Profile -->
 
 
-<hr>
 
+<hr>
 
 
 
