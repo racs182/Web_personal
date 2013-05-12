@@ -3,7 +3,11 @@
 		<div class="row">
 			<div id="main" class="grid12">
 
-			<?php get_template_part( 'loop', 'index' );	?>
+			<?php get_template_part( 'loop-profile', 'loop-portafolio', 'index' );	?>
+			<?php get_template_part( 'loop-portafolio', 'index' );	?>
+			<?php get_template_part( 'loop-blog', 'index' );	?>
+			<?php get_template_part( 'loop-contacto', 'index' );	?>
+			<?php get_template_part( 'loop-huella', 'index' );	?>
 
 			</div><!-- #main -->
 

@@ -177,6 +177,8 @@
 	<h6>Develop by Last Name</h6>
 </footer><!-- Fin pie de Página -->
 
+
+
 <?php endwhile; endif; ?>
 </div> <!-- Fin de la estructura Home -->
 

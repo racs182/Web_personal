@@ -32,9 +32,7 @@
 			<div id="branding" role="banner" class="grid12">
 				<div class="row">
 					<?php $heading_tag = ( is_home() || is_front_page() ) ? 'h1' : 'div'; ?>
-				
 					<<?php echo $heading_tag; ?> id="site-title">
-						
 							<div class="grid6">
 										<div class="row">
 											<!-- Logo del site  -->
@@ -48,13 +46,24 @@
 									</div>
 							</div>
 					</<?php echo $heading_tag; ?>>
-					
 					<!-- Menu in Header access -->
 							<div id="access" rol="navigation" class="grid6 right">
-								
 									<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
-							</div> <!-- .row -->	
-			</div><!-- #branding -->
+							</div> 
+				</div><!--#branding -->
+					<!-- Cita	 -->
+					<div class="row">
+						<div class="grid12">
+							<div class="cita">
+								<hr>
+									<h4>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, molestiae dolorum"</h4>
+								<hr>
+							</div>
+						</div>
+					</div><!-- Fin citas header -->
+
+
+			<!-- </div>#branding -->
 			</div><!-- #access -->
 		</div><!-- #masthead -->
 	</div><!-- #header -->
