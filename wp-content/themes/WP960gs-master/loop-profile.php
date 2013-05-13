@@ -33,19 +33,19 @@
 				<div class="grid6">
 					<h4>About me</h4>
 						<div class="row">
-							<div class="grid2">
+							<div class="thumbnails_perfil grid2">
 								<img src="http://placehold.it/80x80" alt="">
 							</div>
-							<div class="grid4">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur!</p>
+							<div class="txt_perfil grid4">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicingad ipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur! repudiandae laboriosam</p>
 							</div>
 						</div>
 						<div class="row">
-							<div class="grid2">
+							<div class="thumbnails_perfil grid2">
 								<img src="http://placehold.it/80x80" alt="">
 							</div>
-							<div class="grid4">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, repellat porro repudiandae laboriosam  Consectetur!</p>
+							<div class="txt_perfil grid4">
+								<p>Lorem ipsum dolor sit amet, re pudiandae labor iosam consectetur adipisicing elit. Suscipit, repellat repellat porro repudiandae laboriosam  Consectetur!</p>
 							</div>
 						</div>
 				</div>

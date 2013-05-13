@@ -114,6 +114,20 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 /* =Modulo profile
 ---------------------------------------------------------------*/
+
+/*About me*/
+
+.thumbnails_perfil{
+	margin-bottom: 10px;
+	margin-right: -20px;
+}
+.txt_perfil{
+	margin-left: -20px;
+
+}
+
+/*My jobs*/
+
 .circulo{
 	width: 60px;
 	height: 60px;
