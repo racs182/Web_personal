@@ -51,18 +51,29 @@
 				</div>
 				<div class="grid6">		
 					<h4>My jobs</h4>
-						<div class="jobs">
+					<div class="row">
+						<div class="icon_jobs_right grid2">
 							<div class="circulo">
 								<img class="img-circle" src="http://placehold.it/60x60" alt="">
+									<h5>item 1</h5>
 							</div>
 						</div>
-						<div class="jobs">
-							<img class="img-circle" src="http://placehold.it/60x60" alt="">
+						<div class="icon_jobs_center grid2">
+							<div class="circulo">
+								<img class="img-circle" src="http://placehold.it/60x60" alt="">
+									<h5>item 2</h5>
+							</div>
 						</div>
-						<div class="jobs">
-							<img class="img-circle" src="http://placehold.it/60x60" alt="">
+						<div class="icon_jobs_left grid2">
+							<div class="circulo">
+								<img class="img-circle" src="http://placehold.it/60x60" alt="">
+									<h5>item 3</h5>
+							</div>
 						</div>
+						<div class="grid6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, rem, ullam deleniti officia ad impedit dolores explicabo perspiciatis est obcaecati consequuntur suscipit minima vitae porro quia vero ab aliquam dolore.</p>
+							</div>
+				</div>
 				</div>
 			</div>
 	</div>

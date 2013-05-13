@@ -100,27 +100,49 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 /* =Content
 -------------------------------------------------------------- */
-
-.cita{
-	text-align: center;
-}
-.jobs {
-	width: 60px;
-	overflow: hidden;
-	padding: 0 20px 0 0;
-	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 28px;
-}
-.circulo{
-	width: 60px;
-	height: 60px;
-	/*float: left;*/
-	overflow: hidden;
-
-}
 #content {
 	margin-top   : 20px;
 	margin-bottom: 20px;
 }
+
+/* =Modulo de Citas (parte header)
+---------------------------------------------------------------*/
+
+.cita{
+	text-align: center;
+}
+
+/* =Modulo profile
+---------------------------------------------------------------*/
+.circulo{
+	width: 60px;
+	height: 60px;
+	margin-bottom: 30px;
+}
+.circulo h5{
+	margin-left: 10px;
+	margin-top: 3px;
+}
+.icon_jobs_right {
+	width: 100px;
+	padding: 0 20px 0 0;
+	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 30px;
+	margin-left: 25px;
+}
+.icon_jobs_center{
+	width: 120px;
+	margin-left: 0px;
+	padding: 0 0 0 60px;
+	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 30px;
+}
+.icon_jobs_left {
+	width: 60px;
+	padding: 0 0 0 60px;
+	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 30px;
+	margin-left: 0px;
+}
+
+
 
 
 
