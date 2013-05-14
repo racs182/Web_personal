@@ -38,9 +38,33 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
     filter: dropshadow(color=#000000, offx=0, offy=-1);
 }
 .site-logo{
-	margin-left: 28px;
+	margin-left: 0px;
+}
+.box-profile{
+	margin-top: -30px;
 }
 
+/*Icons redes sociales*/
+
+.icons-site{
+	font-family: 'icomoon';
+	font-weight: normal;
+	font-style: normal;
+
+}
+.tw .icons-site{
+	font-family: 't'
+}
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
 /* =Menu
 -------------------------------------------------------------- */
 
@@ -155,6 +179,41 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	background: url('http://s2.alt1040.com/wp-content/themes/h3v7/img/autores-linea.png') repeat-x 0px 30px;
 	margin-left: 0px;
 }
+
+/*Modulo Portafolio
+---------------------------------------------------------------*/
+#badge-proj{
+	margin-left: 98px;
+}
+.meta-proj h5{
+	margin-left: 6px;
+	
+}
+.meta-proj h5 a{
+	text-decoration: none;
+	
+}
+
+/*.des-proj h6{
+	font-size: 16px;
+	
+}
+.post-proj{
+	float: left;
+	width: 190px;
+	height: 100px;
+	position: relative;
+	margin-right: 1px;
+}
+.meta-proj{
+	display:block;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0;
+	padding: 10px;
+}*/
 
 
 

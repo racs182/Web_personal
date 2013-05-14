@@ -16,7 +16,8 @@
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
-<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/bootstrap/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/fonts/icomoon76114/fonts/style.css" type="text/css">
 <?php
 
 	if ( is_singular() && get_option( 'thread_comments' ) )
@@ -49,11 +50,17 @@
 
 					<!-- Menu in Header access -->
 						<div class="grid6 right">
+							<!-- <a class="tw icons-site" href="#"></a> -->
+							
+							<i class="icon-user"></i>
+							<i class="icon-comment"></i>
+							<i class="icon-bell"></i>
+							<i class="icon-globe"></i>
+							<!-- <img src="http://placehold.it/20x20" alt=""> -->
+							<!-- <img src="http://placehold.it/20x20" alt="">
 							<img src="http://placehold.it/20x20" alt="">
 							<img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt="">
+							<img src="http://placehold.it/20x20" alt=""> -->
 						</div>
 							<div id="access" rol="navigation" class="grid6 right">
 									<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>

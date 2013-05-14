@@ -32,21 +32,40 @@
 				<div class="grid12">
 					<h4>Recent project</h4>
 						<div class="row">
-							<div class="grid3">
-									<h6>Titulo</h6>
-										<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
+							<div class="box-proj grid3">
+								<div class="post-proj">
+									<a href="#"><img class="img-polaroid" src="http://placehold.it/200x180" alt=""></a>
+								</div>
+									<div class="meta-proj">
+										<h5><a href="#">Titulo aquí<span id="badge-proj" class="badge">+</span></a></h5>
+									</div>
 							</div>
-							<div class="grid3">
-								<h6>Titulo</h6>
-									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
+							
+							<div class="box-proj grid3">
+								<div class="post-proj">
+									<a href="#"><img class="img-polaroid" src="http://placehold.it/200x180" alt=""></a>
+								</div>
+									<div class="meta-proj">
+										<h5><a href="#">Titulo aquí<span id="badge-proj" class="badge">+</span></a></h5>
+									</div>
 							</div>
-							<div class="grid3">
-								<h6>Titulo</h6>
-									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
+							
+							<div class="box-proj grid3">
+								<div class="post-proj">
+									<a href="#"><img class="img-polaroid" src="http://placehold.it/200x180" alt=""></a>
+								</div>
+									<div class="meta-proj">
+										<h5><a href="#">Titulo aquí<span id="badge-proj" class="badge">+</span></a></h5>
+									</div>
 							</div>
-							<div class="grid3">
-								<h6>Titulo</h6>
-									<img class="img-polaroid" src="http://placehold.it/200x180" alt="">
+							
+							<div class="box-proj grid3">
+								<div class="post-proj">
+									<a href="#"><img class="img-polaroid" src="http://placehold.it/200x180" alt=""></a>
+								</div>
+									<div class="meta-proj">
+										<h5><a href="#">Titulo aquí<span id="badge-proj" class="badge">+</span></a></h5>
+									</div>
 							</div>
 						</div>
 				</div>

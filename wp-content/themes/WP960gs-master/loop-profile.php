@@ -27,7 +27,7 @@
 
 <!-- Módulo Profile -->
 <div class="row">
-	<div class="grid12">
+	<div class="box-profile grid12">
 		<h2>Perfil</h2>
 			<div class="row">	
 				<div class="grid6">
