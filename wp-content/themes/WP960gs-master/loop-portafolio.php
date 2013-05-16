@@ -33,18 +33,20 @@
 				<div class="grid12">
 					<h4>Recent project</h4>
 						<div class="row">
+							<!-- aqui -->
 							<div class="box-proj grid3">
 								<div>
 									<a href="#">
-										<img class="img-polaroid" data-toggle="modal" data-target="#myModal" src="http://placehold.it/200x180" alt=""> </a>
+										<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""> </a>
 								</div>
 								<div class="box-meta grid3">
-									<div>
+									<div class="meta-proj">
 										<h5><a href="#" data-toggle="modal" data-target="#myModal">Titulo aquí
 											<span id="badge-proj" class="badge">+</span></a></h5>
 									</div>
 								</div>
 							</div>
+							<!-- aqui -->
 							<div class="box-proj grid3">
 								<div>
 									<a href="#">
@@ -91,7 +93,7 @@
 <!-- Fin Módulo Portafolio -->
 
 
-<!-- Modal -->
+<!-- Modal 1 -->
 <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
@@ -102,11 +104,13 @@
 		<div class="grid8">
 			<div class="row">
 				<div class="grid4">
-					<img class="img" src="http://placehold.it/200x300" alt=""></div>
+					<img class="img" src="http://placehold.it/250x300" alt=""></div>
 				<div class="row">
 					<div class="des-proj grid4">
+						<h4>Titulo</h4>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, repellendus, veniam, impedit reiciendis quas enim saepe nam molestias soluta autem ipsum maiores sapiente eaque atque quo velit eos sequi iste?
+							orem ipsum dolor sit amet, consectetur adipisicing elit. Qui, inventore ducimus a.
 						</p>
 					</div>
 				</div>

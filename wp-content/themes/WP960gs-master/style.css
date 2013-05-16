@@ -187,11 +187,10 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
 
 #badge-proj{
-	margin-left: 105px;
+	margin-left: 115px;
 }
 .meta-proj h5{
-	margin-left: 0px;
-	
+	margin-left: 0px;	
 }
 .meta-proj h5 a{
 	text-decoration: none;
@@ -201,10 +200,11 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	color:#ccc; 
 }
 .des-proj p{
-	font-size: 18px;
-	margin-left: 0px;
-
-	
+	font-size: 16px;
+	margin-left: -40px;
+}
+.des-proj h4{
+	margin-left: -40px;
 }
 
 
