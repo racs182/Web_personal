@@ -44,7 +44,7 @@ max_num_pages > 1 ) : ?>
 			<div class="row">
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div>
+					<div id="prueba">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -62,7 +62,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div>
+					<div id="prueba">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -80,7 +80,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div>
+					<div id="prueba">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -98,7 +98,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div>
+					<div id="prueba">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>

@@ -24,33 +24,65 @@
 
 <?php if (have_posts()): while ( have_posts() ) : the_post(); ?>
 
-
-
 <!-- Módulo Blog -->
 <div class="row">
 	<div class="grid12">
 		<h2>Blog</h2>
-			<div class="row">
-				<div class="grid12">
-					<h4>Lastest Post</h4>
-						<div class="row">
-							<div class="grid4">
-									<h6>Titulo</h6>
-										<img src="http://placehold.it/300x250" alt="">
+		<div class="row">
+			<div class="grid12">
+				<h4>Lastest Post</h4>
+				<div class="row">
+					<!-- Aqui -->
+					<div class="grid4">
+						<div class="box-big">
+							<div class="imagenB">
+								<img src="http://placehold.it/300x220/cccccc" alt="">
 							</div>
-							<div class="grid4">
-								<h6>Titulo</h6>
-									<img src="http://placehold.it/300x250" alt="">
+							<div class="box-mediano">
+								<div class="titulo">
+									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
+								</div>
 							</div>
-							<div class="grid4">
-								<h6>Titulo</h6>
-									<img src="http://placehold.it/300x250" alt="">
-							</div>
+							
+						</div>
 					</div>
+					<!-- Aqui -->
+					<!-- Aqui -->
+					<div class="grid4">
+						<div class="box-big">
+							<div class="imagenB">
+								<img src="http://placehold.it/300x220/cccccc" alt="">
+							</div>
+							<div class="box-mediano">
+								<div class="titulo">
+									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<!-- Aqui -->
+					<!-- Aqui -->
+					<div class="grid4">
+						<div class="box-big">
+							<div class="imagenB">
+								<img src="http://placehold.it/300x220/cccccc" alt="">
+							</div>
+							<div class="box-mediano">
+								<div class="titulo">
+									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<!-- Aqui -->
 				</div>
 			</div>
 		</div>
-</div><!-- Módulo Blog -->
+	</div>
+</div>
+<!-- Módulo Blog -->
 
 <hr>
 
