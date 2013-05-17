@@ -35,45 +35,57 @@
 					<!-- Aqui -->
 					<div class="grid4">
 						<div class="box-big">
+							<div class="box-categoria">
+								<div class="categoria">
+									<a href="#">Dev</a>
+								</div>
 							<div class="imagenB">
 								<img src="http://placehold.it/300x220/cccccc" alt="">
 							</div>
-							<div class="box-mediano">
+							<div class="box-resumen">
 								<div class="titulo">
 									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
 								</div>
 							</div>
-							
+							</div>
 						</div>
 					</div>
 					<!-- Aqui -->
 					<!-- Aqui -->
 					<div class="grid4">
 						<div class="box-big">
+							<div class="box-categoria">
+								<div class="categoria">
+									<a href="#">Emp</a>
+								</div>
 							<div class="imagenB">
 								<img src="http://placehold.it/300x220/cccccc" alt="">
 							</div>
-							<div class="box-mediano">
+							<div class="box-resumen">
 								<div class="titulo">
 									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
 								</div>
 							</div>
-							
+							</div>
 						</div>
 					</div>
 					<!-- Aqui -->
 					<!-- Aqui -->
 					<div class="grid4">
 						<div class="box-big">
+							<div class="box-categoria">
+								<div class="categoria">
+									<a href="#">Des</a>
+								</div>
 							<div class="imagenB">
 								<img src="http://placehold.it/300x220/cccccc" alt="">
 							</div>
-							<div class="box-mediano">
+							<div class="box-resumen">
 								<div class="titulo">
 									<a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, fugit asperio</a>
 								</div>
 							</div>
-							
+							</div>
 						</div>
 					</div>
 					<!-- Aqui -->

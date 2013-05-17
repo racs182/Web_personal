@@ -245,7 +245,7 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 /*Modulo Blog--------------------------------------------------*/
 
-.box-mediano{
+.box-resumen{
 	margin-top: -55px;
 	margin-left: 0px;
 	line-height: 1.3;
@@ -267,8 +267,27 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	color:#fff;
 
 }
-.box-mediano:hover{
+.box-resumen:hover{
 	background-color: rgba(0,0,0,0.6);
+}
+.categoria{
+	margin-bottom: -10px;
+	margin-left: 255px;
+	width: 45px;
+	overflow: hidden;
+	position: absolute;
+	background-color: #666;
+	text-align: center;
+}
+.categoria a{
+	color:#fff;
+	font-size: 12px;
+	text-decoration: none;
+}
+.categoria a:hover{
+	text-decoration: none;
+	color:#999;
+
 }
 
 
