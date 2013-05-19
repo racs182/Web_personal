@@ -17,7 +17,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/bootstrap/css/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/fonts/icomoon76114/fonts/style.css" type="text/css">
+<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/css/icomoon1747/style.css" type="text/css">
 <?php
 
 	if ( is_singular() && get_option( 'thread_comments' ) )
@@ -50,17 +50,13 @@
 
 					<!-- Menu in Header access -->
 						<div class="grid6 right">
-							<!-- <a class="tw icons-site" href="#"></a> -->
-							
-							<i class="icon-user"></i>
-							<i class="icon-comment"></i>
-							<i class="icon-bell"></i>
-							<i class="icon-globe"></i>
-							<!-- <img src="http://placehold.it/20x20" alt=""> -->
-							<!-- <img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt="">
-							<img src="http://placehold.it/20x20" alt=""> -->
+							<!-- iconos redes -->
+									<a href="#"><i class="icons-head">g</i></a>
+									<a href="#"><i class="icons-head"></i></a>
+									<a href="#"><i class="icons-head">h</i></a>
+									<a href="#"><i class="icons-head"></i></a>
+									
+									
 						</div>
 							<div id="access" rol="navigation" class="grid6 right">
 									<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
@@ -71,7 +67,8 @@
 						<div class="grid12">
 							<div class="cita">
 								<hr>
-									<h4>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, molestiae dolorum"</h4>
+									<h4>
+										<i class="icons-cita"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente<i class="icons-cita"></i></h4>
 								<hr>
 							</div>
 						</div>

@@ -7,6 +7,7 @@
 		url('fonts/icomoon.svg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
+	text-decoration: none;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
@@ -17,6 +18,8 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
+	text-decoration: none;
+	font-style: none;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
@@ -27,13 +30,14 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-pencil, .icon-spinner, .icon-stats, .icon-briefcase, .icon-airplane, .icon-user, .icon-signup, .icon-wink, .icon-loop, .icon-arrow-left, .icon-arrow-right, .icon-twitter, .icon-twitter-2, .icon-twitter-3, .icon-youtube, .icon-youtube-2, .icon-github, .icon-github-2, .icon-github-3, .icon-skype, .icon-google-plus, .icon-google-plus-2, .icon-google-plus-3, .icon-stats-2, .icon-arrow-left-alt1, .icon-arrow-right-alt1, .icon-left-quote, .icon-right-quote, .icon-left-quote-alt, .icon-right-quote-alt, .icon-play, .icon-play-2, .icon-play-3, .icon-bars, .icon-menu, .icon-menu-2, .icon-pencil-2 {
+.icon-pencil, .icon-spinner, .icon-stats, .icon-briefcase, .icon-airplane, .icon-user, .icon-signup, .icon-wink, .icon-loop, .icon-arrow-left, .icon-arrow-right, .icon-twitter, .icon-twitter-2, .icon-twitter-3, .icon-youtube, .icon-youtube-2, .icon-github, .icon-github-2, .icon-github-3, .icon-skype, .icon-google-plus, .icon-google-plus-2, .icon-google-plus-3, .icon-stats-2, .icon-arrow-left-alt1, .icon-arrow-right-alt1, .icon-left-quote, .icon-right-quote, .icon-left-quote-alt, .icon-right-quote-alt, .icon-play, .icon-play-2, .icon-play-3, .icon-bars, .icon-menu, .icon-menu-2, .icon-pencil-2, .icon-image, .icon-play-4, .icon-html5, .icon-html5-2, .icon-css3, .icon-file-css, .icon-file-xml, .icon-tux, .icon-embed, .icon-code, .icon-share, .icon-skype-2, .icon-code-2, .icon-lines, .icon-wordpress, .icon-wordpress-2, .icon-feed {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
+	text-decoration: none;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
@@ -147,4 +151,55 @@ you can use the generic selector below, but it's slower:
 }
 .icon-pencil-2:before {
 	content: "\e024";
+}
+.icon-image:before {
+	content: "\e00b";
+}
+.icon-play-4:before {
+	content: "\e010";
+}
+.icon-html5:before {
+	content: "\e012";
+}
+.icon-html5-2:before {
+	content: "\e013";
+}
+.icon-css3:before {
+	content: "\e025";
+}
+.icon-file-css:before {
+	content: "\e026";
+}
+.icon-file-xml:before {
+	content: "\e027";
+}
+.icon-tux:before {
+	content: "\e028";
+}
+.icon-embed:before {
+	content: "\e029";
+}
+.icon-code:before {
+	content: "\e02a";
+}
+.icon-share:before {
+	content: "\e02b";
+}
+.icon-skype-2:before {
+	content: "\e02c";
+}
+.icon-code-2:before {
+	content: "\e02d";
+}
+.icon-lines:before {
+	content: "\e02e";
+}
+.icon-wordpress:before {
+	content: "\e02f";
+}
+.icon-wordpress-2:before {
+	content: "\e030";
+}
+.icon-feed:before {
+	content: "\e031";
 }

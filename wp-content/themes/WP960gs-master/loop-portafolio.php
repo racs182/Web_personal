@@ -48,14 +48,26 @@ max_num_pages > 1 ) : ?>
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
-					<div class="box-meta grid3">
-						<div class="meta-proj">
-							<h5>
-								<a href="#" data-toggle="modal" data-target="#myModal">
-									Titulo aquí
-									<span id="badge-proj" class="badge">+</span>
-								</a>
-							</h5>
+					<div class="row">
+						<div class="grid3">
+							<div class="row">
+								<div class="grid2">
+									<div class="meta-proj">
+										<h5>
+											<a href="#" data-toggle="modal" data-target="#myModal">Titulo aquí</a>
+										</h5>
+									</div>
+								</div>
+								<div class="grid1">
+									<div class="ico-meta right">
+										<a href="#">
+											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											</h5>
+										</a>
+									</div>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -66,14 +78,26 @@ max_num_pages > 1 ) : ?>
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
-					<div class="box-meta grid3">
-						<div class="meta-proj">
-							<h5>
-								<a href="#" data-toggle="modal" data-target="#myModal">
-									Titulo aquí
-									<span id="badge-proj" class="badge">+</span>
-								</a>
-							</h5>
+					<div class="row">
+						<div class="grid3">
+							<div class="row">
+								<div class="grid2">
+									<div class="meta-proj">
+										<h5>
+											<a href="#" data-toggle="modal" data-target="#myModal">Titulo aquí</a>
+										</h5>
+									</div>
+								</div>
+								<div class="grid1">
+									<div class="ico-meta right">
+										<a href="#">
+											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											</h5>
+										</a>
+									</div>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -84,14 +108,26 @@ max_num_pages > 1 ) : ?>
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
-					<div class="box-meta grid3">
-						<div class="meta-proj">
-							<h5>
-								<a href="#" data-toggle="modal" data-target="#myModal">
-									Titulo aquí
-									<span id="badge-proj" class="badge">+</span>
-								</a>
-							</h5>
+					<div class="row">
+						<div class="grid3">
+							<div class="row">
+								<div class="grid2">
+									<div class="meta-proj">
+										<h5>
+											<a href="#" data-toggle="modal" data-target="#myModal">Titulo aquí</a>
+										</h5>
+									</div>
+								</div>
+								<div class="grid1">
+									<div class="ico-meta right">
+										<a href="#">
+											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											</h5>
+										</a>
+									</div>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -102,14 +138,26 @@ max_num_pages > 1 ) : ?>
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
-					<div class="box-meta grid3">
-						<div class="meta-proj">
-							<h5>
-								<a href="#" data-toggle="modal" data-target="#myModal">
-									Titulo aquí
-									<span id="badge-proj" class="badge">+</span>
-								</a>
-							</h5>
+					<div class="row">
+						<div class="grid3">
+							<div class="row">
+								<div class="grid2">
+									<div class="meta-proj">
+										<h5>
+											<a href="#" data-toggle="modal" data-target="#myModal">Titulo aquí</a>
+										</h5>
+									</div>
+								</div>
+								<div class="grid1">
+									<div class="ico-meta right">
+										<a href="#">
+											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											</h5>
+										</a>
+									</div>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -156,14 +204,11 @@ max_num_pages > 1 ) : ?>
 										<h5>Tecnologías</h5>
 									</div>
 									<div class="modalTech">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt="">
-										<img src="http://placehold.it/25x25" alt=""></div>
+										<i class="icons-proj"></i>
+										<i class="icons-proj"></i>
+										<i class="icons-proj"></i>
+										<i class="icons-proj"></i>
+										</div>
 								</div>
 
 								<div class="grid2">

@@ -37,8 +37,10 @@
 						<img src="http://placehold.it/300x250" alt="">
 				</div>
 				<div class="grid4">
-					<h4>Social Network</h4>
-						<img src="http://placehold.it/300x250" alt="">
+					<div class="box-huella">
+						<h4>Social Network</h4>
+						<!-- <img src="http://placehold.it/300x250" alt=""> -->
+					</div>
 				</div>
 			</div>
 		</div>

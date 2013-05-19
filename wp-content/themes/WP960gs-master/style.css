@@ -35,7 +35,32 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	color: #9A9A9A;
 	text-decoration: none;
 	text-shadow: 0px -1px 0px #000000;
-    filter: dropshadow(color=#000000, offx=0, offy=-1);
+  filter: dropshadow(color=#000000, offx=0, offy=-1);
+}
+ 
+ /*iconos redes sociales header*/
+
+.icons-head{
+	font-family: 'icomoon';
+	font-size: 20px;
+	padding-left: 3px;
+	font-style: normal;
+	color:#333;
+}
+.icons-head :hover{
+	text-decoration: none;
+	font-style: none;
+}
+.icons-cita{
+	font-family: 'icomoon';
+	font-size: 14px;
+	font-style: normal;
+	padding:5px;
+}
+.cita h4{
+	font-weight: normal;
+	color: #666;
+
 }
 .site-logo{
 	margin-left: 0px;
@@ -183,18 +208,19 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 /*Modulo Portafolio
 ---------------------------------------------------------------*/
 #prueba img:hover{
-	box-shadow: 3px 3px 3px 1px rgba(17, 17, 17, 0.3);
-	-webkit-box-shadow: 3px 3px 3px 1px rgba(17, 17, 17, 0.3);
-	-moz-box-shadow: 3px 3px 3px 1px rgba(17, 17, 17, 0.3);
+	box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
+	-webkit-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
+	-moz-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
 }
 .box-meta{
 	margin-left: 0px;
 }
-#badge-proj{
-	margin-left: 115px;
-}
+
+/*Titulos proyecos*/
+
 .meta-proj h5{
-	margin-left: 0px;	
+	margin-left: 1px;	
+	font-weight: normal;
 }
 .meta-proj h5 a{
 	text-decoration: none;
@@ -204,11 +230,30 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	color:#ccc; 
 }
 
+/*icono titulo proyecto*/
+
+#badge-proj{
+	margin-left: 0px;
+	margin-right: 3px;
+}
+.ico-meta{
+	margin-left: 0px;
+}
+.icons-meta-proj{
+	font-family: 'icomoon';
+	font-style: normal;
+	font-size: 16px;
+	text-decoration: none;
+	color:#333;
+	font-weight: normal;
+}
+
 /*Modales*/
+
 .modal-resultado img:hover{
-	box-shadow: 1px 1px 2px 1px rgba(17, 17, 17, 0.3);
-	-webkit-box-shadow: 1px 1px 2px 1px rgba(17, 17, 17, 0.3);
-	-moz-box-shadow: 1px 1px 2px 1px rgba(17, 17, 17, 0.3);
+	box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
+	-webkit-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
+	-moz-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
 }
 .des-proj h4{
 	margin-left: -40px;
@@ -242,6 +287,14 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	margin-bottom: 5px;
 }
 
+/*iconos en modales*/
+.icons-proj{
+	font-family: 'icomoon';
+	font-style: normal;
+	font-size: 18px;
+	color:#333;
+	padding: 3px;
+}
 
 /*Modulo Blog--------------------------------------------------*/
 
