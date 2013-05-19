@@ -68,7 +68,7 @@
 							<div class="cita">
 								<hr>
 									<h4>
-										<i class="icons-cita"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente<i class="icons-cita"></i></h4>
+										<i class="icons-cita"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit sapiente.- Peter Perez<i class="icons-cita"></i></h4>
 								<hr>
 							</div>
 						</div>
