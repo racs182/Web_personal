@@ -26,8 +26,10 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
 #branding {
 	margin-bottom: 20px;
+	
 }
 #site-title {
+
 	font-size      : 22px;
 	margin-bottom  : 20px;
 }
@@ -343,9 +345,31 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 }
 
-/*Modulo Blog---------------------------------------------*/
+/*Modulo Contacto---------------------------------------------*/
 .enviar-btn{
 	margin-left: 394px;
+}
+
+/*Modulo huella----------------------------------------------*/
+
+.box-huella{
+	width:300px;
+	height:250px;
+	border:1px solid #ccc;
+}
+.icons-box-footer{
+	margin-top: 40%;
+	margin-left: 23%;
+}
+.icons-footer{
+	font-family: 'icomoon';
+	font-size: 24px;
+	font-variant: none;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	padding:5px;
+	color:#333;
 }
 
 

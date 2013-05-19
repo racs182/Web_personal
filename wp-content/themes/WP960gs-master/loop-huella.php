@@ -37,9 +37,17 @@
 						<img src="http://placehold.it/300x250" alt="">
 				</div>
 				<div class="grid4">
+					<h4>Social Network</h4>
 					<div class="box-huella">
-						<h4>Social Network</h4>
-						<!-- <img src="http://placehold.it/300x250" alt=""> -->
+						
+
+						<div class="icons-box-footer">
+							<a href="#"><i class="icons-footer">g</i></a>
+							<a href="#"><i class="icons-footer"></i></a>
+							<a href="#"><i class="icons-footer">h</i></a>
+							<a href="#"><i class="icons-footer"></i></a>
+						</div>
+						
 					</div>
 				</div>
 			</div>
