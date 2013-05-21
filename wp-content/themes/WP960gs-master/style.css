@@ -49,7 +49,7 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	font-style: normal;
 	color:#333;
 }
-.icons-head :hover{
+.icons-head a:hover{
 	text-decoration: none;
 	font-style: none;
 }
@@ -80,9 +80,6 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	font-style: normal;
 
 }
-.tw .icons-site{
-	font-family: 't'
-}
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -111,6 +108,7 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	float: left;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
+	font-size: 14px;
 }
 #access .menu a {
 	color          :#333333;
@@ -123,17 +121,15 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 #access .menu a:hover {
 	color           : #000000;
 	background-color: #AFAFAF;
-	box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
-	-webkit-box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
-	-moz-box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
+	text-shadow: 1px 1px 1px #cccccc;
+	filter: dropshadow(color=#cccccc, offx=1, offy=1);
 }
 #access .menu .current_page_item a {
 	color           : #000000;
 	background-color: #AFAFAF;
-	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-	-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-	-moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-
+	border-bottom: 1px solid #000;
+	text-shadow: 1px 1px 1px #cccccc;
+	filter: dropshadow(color=#cccccc, offx=1, offy=1);
 }
 /* Menu Footer */
 #menu-footer .menu ul {
@@ -938,6 +934,7 @@ code {
 #site-description h3{
 	font-size: 37.5px;
 	font-weight: 300;
+	font-weight:lighter;
 }
 
 
