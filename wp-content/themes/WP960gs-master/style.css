@@ -59,18 +59,40 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	font-style: normal;
 	padding:5px;
 }
+#div-line{
+	border-top: 1px solid #ccc;
+	margin-top: 16px;
+	overflow: hidden;
+	padding: 5px 0 0 0;
+}
 .cita h4{
 	font-weight: normal;
 	color: #666;
-
 }
 .site-logo{
 	margin-left: 0px;
 }
-
 .box-profile{
-	margin-top: -30px;
+	margin-top: -10px;
 }
+.box-profile h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.box-profile h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.box-profile p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color:#666;
+}
+
 
 /*Icons redes sociales*/
 
@@ -187,7 +209,6 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
 .txt_perfil{
 	margin-left: -20px;
-
 }
 
 /*My jobs*/
@@ -196,10 +217,26 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	width: 60px;
 	height: 60px;
 	margin-bottom: 30px;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	
+}
+.circulo:hover{
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.1);
+
 }
 .circulo h5{
 	margin-left: 10px;
 	margin-top: 3px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color:#000;
 }
 .icon_jobs_right {
 	width: 100px;
@@ -222,7 +259,25 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 /*Modulo Portafolio
 ---------------------------------------------------------------*/
-#prueba img:hover{
+
+.box-portafolio{
+	margin-top: 20px;
+}
+.box-portafolio h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.box-portafolio h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.box-portafolio h5{
+
+}
+#box-img img:hover{
 	box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
 	-webkit-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
 	-moz-box-shadow: 1px 1px 3px 3px rgba(17, 17, 17, 0.3);
@@ -235,11 +290,13 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 
 .meta-proj h5{
 	margin-left: 1px;	
-	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;	
 }
 .meta-proj h5 a{
 	text-decoration: none;
-	color:#333;	
+	color:#666;	
 }
 .meta-proj h5 a:hover{
 	color:#ccc; 
@@ -273,18 +330,33 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 .des-proj h4{
 	margin-left: -40px;
 	margin-top: 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
 }
 .des-proj h6{
 	font-weight: normal;
 	margin-left: -40px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #666;
 }
 .des-proj p{
 	font-size: 16px;
 	margin-left: -40px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: #666;
 }
 #myModalLabel h3{
 	margin-left: 20px;
 	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	
 }
 .modal-meta{
 	margin-left: -20px;
@@ -292,17 +364,31 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
 #modalMetaTitle h5 {
 	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
 }
 #modalMetaDes p{
 	font-size: 12px;
 	margin-left: 0px;
 	margin-top: 14px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #666;
 }
 .modalTech img{
 	margin-bottom: 5px;
 }
+.modal-footer{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	color: #666;
+}
 
 /*iconos en modales*/
+
 .icons-proj{
 	font-family: 'icomoon';
 	font-style: normal;
@@ -312,7 +398,20 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
 
 /*Modulo Blog--------------------------------------------------*/
-
+.box-blog{
+	margin-top: 20px;
+}
+.box-blog h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.box-blog h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
 .box-resumen{
 	margin-top: -55px;
 	margin-left: 0px;
@@ -327,13 +426,12 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 .titulo a{
 	font-size: 14px;
 	font-weight: normal;
-	color:#fff;
+	color:#f1f1f1;
 	text-decoration: none;
 }
 .titulo a:hover{
 	text-decoration: none;
 	color:#fff;
-
 }
 .box-resumen:hover{
 	background-color: rgba(0,0,0,0.6);
@@ -348,24 +446,74 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	text-align: center;
 }
 .categoria a{
-	color:#fff;
+	color:#ccc;
 	font-size: 12px;
 	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
 }
 .categoria a:hover{
 	text-decoration: none;
 	color:#999;
 
 }
+.titulo{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
 
 /*Modulo Contacto---------------------------------------------*/
+
+
+.box-contacto{
+	margin-top: 20px;
+}
+.box-contacto h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.box-contacto h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.box-contacto input {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+.box-contacto button{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
 .enviar-btn{
 	margin-left: 394px;
 }
 
+
+
 /*Modulo huella----------------------------------------------*/
 
 .box-huella{
+	margin-top: 20px;
+}
+.box-huella h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.box-huella h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.box-network{
 	width:300px;
 	height:250px;
 	border:1px solid #ccc;
@@ -934,7 +1082,6 @@ code {
 #site-description h3{
 	font-size: 37.5px;
 	font-weight: 300;
-	font-weight:lighter;
 }
 
 

@@ -66,10 +66,10 @@
 					<div class="row">
 						<div class="grid12">
 							<div class="cita">
-								<hr>
+								<div id="div-line"></div>
 									<h4>
 										<i class="icons-cita"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit sapiente.- Peter Perez<i class="icons-cita"></i></h4>
-								<hr>
+								<div id="div-line"></div>
 							</div>
 						</div>
 					</div><!-- Fin citas header -->

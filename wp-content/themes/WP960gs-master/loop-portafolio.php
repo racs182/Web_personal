@@ -29,22 +29,22 @@ max_num_pages > 1 ) : ?>
 
 <!-- Definicion de Estructura Home -->
 
-<div class="grid12">
+<div class="container">
 
 <?php if (have_posts()): while ( have_posts() ) : the_post(); ?>
 
 <!-- Módulo Portafolio -->
 
 <div class="row">
-<div class="grid12">
-	<h2>Portafolio</h2>
+<div class="box-portafolio grid12">
+	<h2>Portafolio /</h2>
 	<div class="row">
 		<div class="grid12">
 			<h4>Recent project</h4>
 			<div class="row">
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div id="prueba">
+					<div id="box-img">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -74,7 +74,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div id="prueba">
+					<div id="box-img">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -104,7 +104,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div id="prueba">
+					<div id="box-img">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -121,7 +121,8 @@ max_num_pages > 1 ) : ?>
 								<div class="grid1">
 									<div class="ico-meta right">
 										<a href="#">
-											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											<h5>
+												<i id="badge-proj" class="icons-meta-proj"></i>
 											</h5>
 										</a>
 									</div>
@@ -134,7 +135,7 @@ max_num_pages > 1 ) : ?>
 				<!-- aqui -->
 				<!-- aqui -->
 				<div class="box-proj grid3">
-					<div id="prueba">
+					<div id="box-img">
 						<a href="#">
 							<img data-toggle="modal" data-target="#myModal" src="http://placehold.it/220x200" alt=""></a>
 					</div>
@@ -151,7 +152,8 @@ max_num_pages > 1 ) : ?>
 								<div class="grid1">
 									<div class="ico-meta right">
 										<a href="#">
-											<h5> <i id="badge-proj" class="icons-meta-proj"></i>
+											<h5>
+												<i id="badge-proj" class="icons-meta-proj"></i>
 											</h5>
 										</a>
 									</div>
@@ -208,7 +210,7 @@ max_num_pages > 1 ) : ?>
 										<i class="icons-proj"></i>
 										<i class="icons-proj"></i>
 										<i class="icons-proj"></i>
-										</div>
+									</div>
 								</div>
 
 								<div class="grid2">
@@ -233,6 +235,8 @@ max_num_pages > 1 ) : ?>
 <div class="modal-footer">by lastname</div>
 </div>
 <!-- Fin Modal bootstrap -->
-<hr>
+
+
+
 <?php endwhile; endif; ?></div>
 <!-- Fin de la estructura Home -->

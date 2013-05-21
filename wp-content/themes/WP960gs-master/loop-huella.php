@@ -17,7 +17,7 @@
 <?php endif; ?>
 
 <!-- Definicion de Estructura Home -->
-<div class="grid12">
+<div class="container">
 	
 
 <?php if (have_posts()): while ( have_posts() ) : the_post(); ?>
@@ -25,7 +25,7 @@
 
 <!-- Módulo huella digital -->
 <div class="row">
-	<div class="grid12">
+	<div class="box-huella grid12">
 		<h2>Redes</h2>
 			<div class="row">
 				<div class="grid4">
@@ -38,7 +38,7 @@
 				</div>
 				<div class="grid4">
 					<h4>Social Network</h4>
-					<div class="box-huella">
+					<div class="box-network">
 						
 
 						<div class="icons-box-footer">
