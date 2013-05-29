@@ -236,7 +236,5 @@ max_num_pages > 1 ) : ?>
 </div>
 <!-- Fin Modal bootstrap -->
 
-
-
 <?php endwhile; endif; ?></div>
 <!-- Fin de la estructura Home -->

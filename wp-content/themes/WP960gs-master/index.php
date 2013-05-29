@@ -15,7 +15,7 @@
 
 				<?php get_sidebar(); ?>
 
-			</div> <!-- #sidebar  -->
+			</div>--> <!-- #sidebar  -->
 		</div><!-- .row -->
 
 <?php get_footer(); ?>
