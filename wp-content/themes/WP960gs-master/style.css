@@ -41,17 +41,17 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 }
  
  /*iconos redes sociales header*/
-
+.icons-box-head a:hover{
+	text-decoration: none;
+}
 .icons-head{
 	font-family: 'icomoon';
 	font-size: 20px;
 	padding-left: 3px;
-	font-style: normal;
 	color:#333;
 }
-.icons-head a:hover{
-	text-decoration: none;
-	font-style: none;
+.icons-head i:hover{
+	font-color:#f00;
 }
 .icons-cita{
 	font-family: 'icomoon';
@@ -100,7 +100,6 @@ Tags: black,gray,white,one-column,two-columns,fixed-width,custom-menu,featured-i
 	font-family: 'icomoon';
 	font-weight: normal;
 	font-style: normal;
-
 }
 .visuallyhidden {
     border: 0;

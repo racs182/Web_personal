@@ -34,7 +34,7 @@ max_num_pages > 1 ) : ?>
 
 <!-- Módulo Contacto -->
 <div class="row">
-<div class="box-contacto grid12">
+<div id="#contacto" class="box-contacto grid12">
 	<h2>Contacto /</h2>
 	<div class="row">
 		<div class="grid6">

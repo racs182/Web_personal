@@ -49,7 +49,7 @@
 					</<?php echo $heading_tag; ?>>
 
 					<!-- Menu in Header access -->
-						<div class="grid6 right">
+						<div class="icons-box-head grid6 right">
 							<!-- iconos redes -->
 									<a href="#"><i class="icons-head">g</i></a>
 									<a href="#"><i class="icons-head"></i></a>

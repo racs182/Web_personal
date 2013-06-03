@@ -34,7 +34,7 @@ max_num_pages > 1 ) : ?>
 
 <!-- Módulo huella digital -->
 <div class="row">
-<div class="box-huella grid12">
+<div id="#huella" class="box-huella grid12">
 	<h2>Huella digital /</h2>
 	<div class="row">
 		<div class="grid4">

@@ -36,7 +36,7 @@ max_num_pages > 1 ) : ?>
 <!-- Módulo Portafolio -->
 
 <div class="row">
-<div class="box-portafolio grid12">
+<div id="#portafolio" class="box-portafolio grid12">
 	<h2>Portafolio /</h2>
 	<div class="row">
 		<div class="grid12">

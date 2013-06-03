@@ -35,7 +35,7 @@ max_num_pages > 1 ) : ?>
 
 <!-- Módulo Blog -->
 <div class="row">
-<div class="box-blog grid12">
+<div id="#blog" class="box-blog grid12">
 	<h2>Blog /</h2>
 	<div class="row">
 		<div class="grid12">
